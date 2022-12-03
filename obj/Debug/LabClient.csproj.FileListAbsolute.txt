@@ -1,0 +1,13 @@
+C:\Users\TOMADMIN\source\repos\LabClient\LabClient\bin\Debug\LabClient.exe
+C:\Users\TOMADMIN\source\repos\LabClient\LabClient\bin\Debug\LabClient.pdb
+C:\Users\TOMADMIN\source\repos\LabClient\LabClient\obj\Debug\LabClient.csprojAssemblyReference.cache
+C:\Users\TOMADMIN\source\repos\LabClient\LabClient\obj\Debug\LabClient.Form1.resources
+C:\Users\TOMADMIN\source\repos\LabClient\LabClient\obj\Debug\LabClient.Properties.Resources.resources
+C:\Users\TOMADMIN\source\repos\LabClient\LabClient\obj\Debug\LabClient.csproj.GenerateResource.cache
+C:\Users\TOMADMIN\source\repos\LabClient\LabClient\obj\Debug\LabClient.csproj.CoreCompileInputs.cache
+C:\Users\TOMADMIN\source\repos\LabClient\LabClient\obj\Debug\LabClient.exe
+C:\Users\TOMADMIN\source\repos\LabClient\LabClient\obj\Debug\LabClient.pdb
+C:\Users\TOMADMIN\source\repos\LabClient\LabClient\obj\Debug\LabClient.MDIParent1.resources
+C:\Users\TOMADMIN\source\repos\LabClient\LabClient\obj\Debug\LabClient.Form2.resources
+C:\Users\TOMADMIN\source\repos\LabClient\LabClient\obj\Debug\LabClient.Form3.resources
+C:\Users\TOMADMIN\source\repos\LabClient\LabClient\obj\Debug\LabClient.Form30.resources
